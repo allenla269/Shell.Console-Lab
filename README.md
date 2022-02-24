@@ -6,7 +6,7 @@
 2. Students will practice using the following commands to traverse directories and investigate their contents: `pwd`, `ls`, `cd`, `cat`, `less`, `grep`
 
 
-## Overview
+## Overview ...
 
 The console (also referred to as the command line, terminal, or shell) is an essential tool for programmers to be familiar with. The command line shell we will be using is called Bash. This lab will focus on the basics for navigating and investigating the file system through the command line. In this lab we will only be using the command line in interactive mode (more on that in the Bash labs). Here are the commands we will focus on:
 
